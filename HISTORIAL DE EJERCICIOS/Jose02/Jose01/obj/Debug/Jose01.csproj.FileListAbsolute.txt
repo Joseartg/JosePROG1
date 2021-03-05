@@ -1,0 +1,38 @@
+C:\Users\josea\Documents\Jose01\Jose01\bin\Debug\Jose01.exe.config
+C:\Users\josea\Documents\Jose01\Jose01\bin\Debug\Jose01.exe
+C:\Users\josea\Documents\Jose01\Jose01\bin\Debug\Jose01.pdb
+C:\Users\josea\Documents\Jose01\Jose01\obj\Debug\Jose01.csprojAssemblyReference.cache
+C:\Users\josea\Documents\Jose01\Jose01\obj\Debug\Jose01.Form1.resources
+C:\Users\josea\Documents\Jose01\Jose01\obj\Debug\Jose01.Properties.Resources.resources
+C:\Users\josea\Documents\Jose01\Jose01\obj\Debug\Jose01.csproj.GenerateResource.cache
+C:\Users\josea\Documents\Jose01\Jose01\obj\Debug\Jose01.csproj.CoreCompileInputs.cache
+C:\Users\josea\Documents\Jose01\Jose01\obj\Debug\Jose01.exe
+C:\Users\josea\Documents\Jose01\Jose01\obj\Debug\Jose01.pdb
+C:\Users\josea\Documents\Jose01\Jose01\obj\Debug\Jose01.VISTA.FrmMenu.resources
+C:\Users\josea\Documents\Jose01\Jose01\obj\Debug\Jose01.VISTA.FrmAcercaDe.resources
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\bin\Debug\Jose01.exe.config
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\bin\Debug\Jose01.exe
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\bin\Debug\Jose01.pdb
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.csprojAssemblyReference.cache
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.VISTA.FrmAcercaDe.resources
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.Form1.resources
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.Properties.Resources.resources
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.VISTA.FrmMenu.resources
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.csproj.GenerateResource.cache
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.csproj.CoreCompileInputs.cache
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.exe
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.pdb
+C:\Users\josea\Documents\GitHub\JosePR1\Jose02\Jose01\obj\Debug\Jose01.VISTA.FrmListaUsuarioVisual.resources
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\bin\Debug\Jose01.exe.config
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\bin\Debug\Jose01.exe
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\bin\Debug\Jose01.pdb
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.csprojAssemblyReference.cache
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.VISTA.FrmAcercaDe.resources
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.VISTA.FrmListaUsuarioVisual.resources
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.Form1.resources
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.Properties.Resources.resources
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.VISTA.FrmMenu.resources
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.csproj.GenerateResource.cache
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.csproj.CoreCompileInputs.cache
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.exe
+C:\Users\josea\Desktop\HISTORIAL DE EJERCICIOS\Jose02\Jose01\obj\Debug\Jose01.pdb
